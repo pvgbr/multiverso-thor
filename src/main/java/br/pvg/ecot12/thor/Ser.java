@@ -8,4 +8,5 @@ public class Ser {
     private boolean vivo;
     private String moradia;
     private List<Ser> filhos = new ArrayList<Ser>();
+    private List<Artefato> artefatos = new ArrayList<Artefato>();
 }
